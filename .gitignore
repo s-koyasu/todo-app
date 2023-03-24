@@ -1,0 +1,23 @@
+# Binaries
+/todo-app
+
+# Go build files
+*.o
+*.a
+*.test
+
+# Dependency directories
+vendor/
+
+# IDE files
+.idea/
+*.iml
+*.swp
+*.swo
+*.swn
+*.swm
+*.swl
+
+# Mac OS files
+.DS_Store
+
